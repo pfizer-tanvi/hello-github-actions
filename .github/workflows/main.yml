@@ -6,4 +6,4 @@ jobs:run
       - uses: actions/checkout@v1
       - uses: ./action-a
         with:
-          MY_NAME: "tanvi"
+          MY_NAME: "mona"
